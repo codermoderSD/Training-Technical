@@ -53,3 +53,9 @@
   > - It only has only values and not keys
   > - Cannot contain duplicate values
   > - var={10,"Name",1.2j}
+
+<br>
+
+![infytq assignment set 1, problem 2](../img/infy_02.png)
+
+![infytq assignment set 1, problem 2](../img/infy_04_palindrome.png)
