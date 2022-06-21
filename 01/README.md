@@ -50,12 +50,6 @@
 
 - SET:
 
-  > - It only has keys and not values
-
-  ```python
-      {
-          "name": "Shubham",
-          "age": 21,
-          "edu": ["10th", "HSC", 10],
-      }
-  ```
+  > - It only has only values and not keys
+  > - Cannot contain duplicate values
+  > - var={10,"Name",1.2j}
