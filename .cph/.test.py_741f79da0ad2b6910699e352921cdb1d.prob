@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"e:\\VIT\\campus-tech\\test.py","tests":[{"id":1655788524797,"input":"10\n5","output":"15"},{"id":1655788829212,"input":"10\n-5","output":"NA"},{"id":1655788838816,"input":"10.0\n-2","output":"NA"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\VIT\\campus-tech\\test.py","group":"local","local":true}
