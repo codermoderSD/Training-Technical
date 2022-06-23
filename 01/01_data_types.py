@@ -1,3 +1,5 @@
+# Data types in Python
+
 ########### integer
 a = 10
 
@@ -7,11 +9,15 @@ b = 110.0
 ########### boolean
 c = True
 
-########### string
-d = "Name"
 
 ########### complex
 e = 8 + 5j
+
+
+# Collection Data Types
+
+########### string
+d = "Name"
 
 ########### list
 list = [10, "Name", True]

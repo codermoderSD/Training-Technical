@@ -59,3 +59,5 @@
 ![infytq assignment set 1, problem 2](../img/infy_02.png)
 
 ![infytq assignment set 1, problem 2](../img/infy_04_palindrome.png)
+
+@ - it is used to give instructions to the interpreter
