@@ -6,6 +6,7 @@
   2. float
   3. bool
   4. imaginary
+  There is something called as long and double as well to denote larger numbers
 
 - Legal ways to define a variable:
 
