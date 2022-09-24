@@ -9,7 +9,7 @@ b = 110.0
 
 ########### boolean
 c = True
-f = false
+f = False
 
 ########### complex
 e = 8 + 5j
