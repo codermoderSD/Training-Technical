@@ -36,3 +36,6 @@ dict = {
 ########### Set
 set = {10, "Name", 1.2j}
 # j represents complex numbers
+
+########### range
+r = range(6)
